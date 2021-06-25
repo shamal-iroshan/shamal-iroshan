@@ -30,4 +30,9 @@
 ![Gitlab](https://img.shields.io/badge/-Gitlab-black?style=flat-square&logo=gitlab)
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-black?style=flat-square&logo=ubuntu)
 
+----
+
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=shamal-iroshan) ![Github](https://img.shields.io/github/followers/shamal-iroshan?label=Follow&style=social)
+
+![trophy](https://github-profile-trophy.vercel.app/?username=shamal-iroshan&row=1&column=4&margin-w=15)
 
