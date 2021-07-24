@@ -35,6 +35,3 @@
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=shamal-iroshan) ![Github](https://img.shields.io/github/followers/shamal-iroshan?label=Follow&style=social)
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=shamal-iroshan&row=1&column=4&margin-w=15)
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shamaliroshan" alt="shamaliroshan" /></a> </p>
-
