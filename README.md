@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://app.daily.dev/shamalIroshan">
-    <img src="https://github.com/shamal-iroshan/shamal-iroshan/blob/master/devcard.svg" width="400" alt="shamal iroshan's Dev Card"/>
+    <img src="https://github.com/shamal-iroshan/shamal-iroshan/blob/main/devcard.svg" width="400" alt="shamal iroshan's Dev Card"/>
   </a>
 </p
 
