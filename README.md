@@ -1,12 +1,6 @@
 <h1 align="center"> Hello, I'm Shamal Iroshan</h1>
 <h3 align="center">🚀 Full Stack Developer 🚀</h3>
 
-<p align="center">
-  <a href="https://app.daily.dev/shamalIroshan">
-    <img src="https://github.com/shamal-iroshan/shamal-iroshan/blob/main/devcard.svg" width="400" alt="shamal iroshan's Dev Card"/>
-  </a>
-</p
-
 ----
 
 <p align="center">
@@ -41,3 +35,9 @@
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=shamal-iroshan) ![Github](https://img.shields.io/github/followers/shamal-iroshan?label=Follow&style=social)
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=shamal-iroshan&row=1&column=4&margin-w=15)
+
+<p align="center">
+  <a href="https://app.daily.dev/shamalIroshan">
+    <img src="https://github.com/shamal-iroshan/shamal-iroshan/blob/main/devcard.svg" width="200" alt="shamal iroshan's Dev Card"/>
+  </a>
+</p
