@@ -36,7 +36,7 @@
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=shamal-iroshan&row=1&column=4&margin-w=15)
 
-<p align="center">
+<p align="left">
   <a href="https://app.daily.dev/shamalIroshan">
     <img src="https://github.com/shamal-iroshan/shamal-iroshan/blob/main/devcard.svg" width="200" alt="shamal iroshan's Dev Card"/>
   </a>
